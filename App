@@ -1,0 +1,5 @@
+import MileageTracker from ‘./MileageTracker.jsx’
+
+export default function App() {
+return <MileageTracker />
+}
